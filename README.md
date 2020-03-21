@@ -3,7 +3,7 @@
     
     <head>
         <title>Esempio sito Web</title>
-        <link href="ESEMPIO.css" rel="stylesheet" type="text/css">
+        <link href="C:\Users\utente\OneDrive\Documenti\FEDERICO\SITO\NETBEANS\ESEMPIO SITO\ESEMPIO.css" rel="stylesheet" type="text/css">
         <meta name="viewport" content="whidth=device-width, initial-scale=1.0">
         
     </head>
